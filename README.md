@@ -14,7 +14,6 @@ A E Learning Website In PHP with Chat Feature through AJAX ,includes multiple we
 [Installing](#Installing)
 
 
-![Demo Video](https://drive.google.com/file/d/1hn_oYmOgX9RWa6rG3Qz7rZu9pb3YVXRq/view?usp=sharing)
 
 
 ## Features 
@@ -46,5 +45,5 @@ extract in ..xampp/htdocs and run on localhost
 upload expdb.sql file in phpmyadmin
 ```
 
-![Badge](https://img.shields.io/badge/Made%20by-Amol%20Dalwai-red?style=for-the-badge)
+
 
